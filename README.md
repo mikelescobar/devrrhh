@@ -1,2 +1,0 @@
-# devrrhh
-Taller de desarrollo
